@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: point_cloud_vrsplat_garden
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20240801
+  m_SplatCount: 668066
+  m_BoundsMin: {x: -40.102142, y: -25.546953, z: -20.588331}
+  m_BoundsMax: {x: 51.22657, y: 9.0112915, z: 27.477911}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: e342c15c8aff2ea821887d38cca6f5e0
+  m_LayerInfo:
+  - x: 0
+    y: 668066
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_clusteredSHData: {fileID: 0}
+  m_layerData:
+  - layer: 0
+    m_PosData: {fileID: 4900000, guid: ada88dfe15e9d41d2b00350167e27fc3, type: 3}
+    m_ColorData: {fileID: 4900000, guid: 9a5ddc34dfa8042859cc7a3d5eb7e454, type: 3}
+    m_OtherData: {fileID: 4900000, guid: 2c943b0dc105c403985d4049207f5fa8, type: 3}
+    m_SHData: {fileID: 4900000, guid: b7ed0a29b636c481a98d270ce55b9618, type: 3}
+    m_ChunkData: {fileID: 0}
+  m_Cameras: []

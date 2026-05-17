@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: point_cloud_cherry_blossom
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20240801
+  m_SplatCount: 276865
+  m_BoundsMin: {x: -39.680687, y: -44.088203, z: -20.529095}
+  m_BoundsMax: {x: 51.240273, y: 10.809093, z: 54.401657}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: db9d63f1589ab8dbeb3b26cfc5f9d9ab
+  m_LayerInfo:
+  - x: 0
+    y: 276865
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_clusteredSHData: {fileID: 0}
+  m_layerData:
+  - layer: 0
+    m_PosData: {fileID: 4900000, guid: cba65c147d2c246bea4e9fdf98fdfed1, type: 3}
+    m_ColorData: {fileID: 4900000, guid: 0f3908a2b0e124f40b21085d9c9ad121, type: 3}
+    m_OtherData: {fileID: 4900000, guid: bab12a859316b44b6a4ed0c526450322, type: 3}
+    m_SHData: {fileID: 4900000, guid: c87b09b69f03c4368840cdffb3f6afda, type: 3}
+    m_ChunkData: {fileID: 0}
+  m_Cameras: []

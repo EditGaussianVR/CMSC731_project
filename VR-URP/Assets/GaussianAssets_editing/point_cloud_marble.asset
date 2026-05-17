@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: point_cloud_marble
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20240801
+  m_SplatCount: 272356
+  m_BoundsMin: {x: -39.812916, y: -44.83502, z: -20.48505}
+  m_BoundsMax: {x: 52.227127, y: 10.809093, z: 56.120846}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 0a287ce7e18b17e492e41fbc930eae1e
+  m_LayerInfo:
+  - x: 0
+    y: 272356
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_clusteredSHData: {fileID: 0}
+  m_layerData:
+  - layer: 0
+    m_PosData: {fileID: 4900000, guid: a6c09c84ef1f34cfcb48003d26750419, type: 3}
+    m_ColorData: {fileID: 4900000, guid: 3e8c7ed4ec54a4ce6b7b83bfd5d56fab, type: 3}
+    m_OtherData: {fileID: 4900000, guid: 82e360ddd869f41eabc04b0d2e6476f5, type: 3}
+    m_SHData: {fileID: 4900000, guid: c990705e26eed4308ba45a935c1a7015, type: 3}
+    m_ChunkData: {fileID: 0}
+  m_Cameras: []

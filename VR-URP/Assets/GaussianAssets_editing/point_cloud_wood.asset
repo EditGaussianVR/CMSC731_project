@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: point_cloud_wood
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20240801
+  m_SplatCount: 272660
+  m_BoundsMin: {x: -39.812916, y: -44.83502, z: -20.48505}
+  m_BoundsMax: {x: 52.227127, y: 9.012296, z: 56.120846}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: f1074e0042c6c884b952d76991fda240
+  m_LayerInfo:
+  - x: 0
+    y: 272660
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_clusteredSHData: {fileID: 0}
+  m_layerData:
+  - layer: 0
+    m_PosData: {fileID: 4900000, guid: e9f43a0cabe84444b90278a05a07dd94, type: 3}
+    m_ColorData: {fileID: 4900000, guid: 526ca61e133d342ccb89a72b3a339935, type: 3}
+    m_OtherData: {fileID: 4900000, guid: bb90a98a2249b4fd7839333c59b8df5a, type: 3}
+    m_SHData: {fileID: 4900000, guid: 36eb34f9a118c465ba0d8009aca40b4f, type: 3}
+    m_ChunkData: {fileID: 0}
+  m_Cameras: []
