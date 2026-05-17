@@ -1,4 +1,4 @@
-# CMSC 731 Project — VR Gaussian Splatting with Runtime Variant Switching
+# CMSC 731 Project — VR Gaussian Splatting with Editing
 
 A Unity VR application for viewing 3D Gaussian Splatting scenes on Meta Quest, with the ability to switch in-headset between an original captured scene and several processed variants: **style transfer**, **scene/object editing**, and **object removal**.
 
